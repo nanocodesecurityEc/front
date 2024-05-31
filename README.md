@@ -28,7 +28,7 @@ Este es un ejercicio de CRUD (Create, Read, Update, Delete) para una lista de ta
 - CSS
 - JavaScript
 
-## Capturas de pantalla
+## Capturas de pantalla ejemplo
 
 ![image1](https://github.com/nanocodesecurityEc/front/assets/168138135/eb86b8fe-61d2-4dc3-8d08-54b67a6583f7)
 ![image2](https://github.com/nanocodesecurityEc/front/assets/168138135/eb86b8fe-61d2-4dc3-8d08-54b67a6583f7)
