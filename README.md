@@ -30,5 +30,5 @@ Este es un ejercicio de CRUD (Create, Read, Update, Delete) para una lista de ta
 
 ## Capturas de pantalla
 
-![](captures/capture1.png)
-![Captura de pantalla 2](captures/capture2.png)
+![](capturas/imagen1.png)
+![capturas/imagen2.png]
