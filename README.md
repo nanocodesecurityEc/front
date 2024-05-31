@@ -32,3 +32,4 @@ Este es un ejercicio de CRUD (Create, Read, Update, Delete) para una lista de ta
 
 ![Captura de pantalla 1](capturas\imagen1.png)
 ![Captura de pantalla 2](capturas\imagen2.png)
+C:\Users\Admin\Downloads\Empresa\EJERCICIO FRONT\front\capturas\image1.png
